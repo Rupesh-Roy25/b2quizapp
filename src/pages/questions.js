@@ -31,7 +31,8 @@ const QuestionsPage = () => {
       <ul>
         {questions.map((question, index) => (
           <li key={index} className="bg-white rounded-lg shadow-lg p-4 mb-4 flex items-center justify-between">
-            <p className="text-lg"><p>Id:{question.id}</p> {question.question}</p>
+            <p>Id:{question.id}</p> 
+            <p className="text-lg">{question.question}</p>
             <button onClick={() => handleDelete(index)} className="px-3 py-1 bg-red-500 text-white rounded hover:bg-red-600">Delete</button>
           </li>
         ))}

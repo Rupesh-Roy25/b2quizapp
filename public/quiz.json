@@ -33,17 +33,6 @@
     "correctOption": "elephant"
   },
   {
-    "id": "26",
-    "question": "what is 4*4",
-    "options": [
-      "12",
-      "14",
-      "16",
-      "13"
-    ],
-    "correctOption": "16"
-  },
-  {
     "id": "89",
     "question": "who created c programming",
     "options": [
@@ -55,14 +44,14 @@
     "correctOption": "Dennis Ritchie"
   },
   {
-    "id": "123",
-    "question": "solve 15*15",
+    "id": "78",
+    "question": "solve 12 + 12",
     "options": [
-      "115",
-      "120",
-      "160",
-      "225"
+      "56",
+      "24",
+      "11",
+      "40"
     ],
-    "correctOption": "225"
+    "correctOption": "24"
   }
 ]
