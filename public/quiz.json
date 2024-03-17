@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "question": "What is the capital of France?",
+    "options": [
+      "London",
+      "Paris",
+      "Berlin",
+      "Rome"
+    ],
+    "correctOption": "Paris"
+  },
+  {
+    "id": "3",
+    "question": "What is the largest planet in our solar system?",
+    "options": [
+      "Mercury",
+      "Venus",
+      "Earth",
+      "Jupiter"
+    ],
+    "correctOption": "Jupiter"
+  },
+  {
+    "id": "5",
+    "question": "what is the greatest mammal in earth",
+    "options": [
+      "elephant",
+      "tiger",
+      "zebra",
+      "dog"
+    ],
+    "correctOption": "elephant"
+  },
+  {
+    "id": "26",
+    "question": "what is 4*4",
+    "options": [
+      "12",
+      "14",
+      "16",
+      "13"
+    ],
+    "correctOption": "16"
+  },
+  {
+    "id": "89",
+    "question": "who created c programming",
+    "options": [
+      "Dennis Ritchie",
+      "C.V Raman",
+      "Abdul Kalam",
+      "Homi J baba"
+    ],
+    "correctOption": "Dennis Ritchie"
+  },
+  {
+    "id": "123",
+    "question": "solve 15*15",
+    "options": [
+      "115",
+      "120",
+      "160",
+      "225"
+    ],
+    "correctOption": "225"
+  }
+]
